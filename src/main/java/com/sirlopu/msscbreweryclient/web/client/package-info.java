@@ -1,0 +1,1 @@
+package com.sirlopu.msscbreweryclient.web.client;
